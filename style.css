@@ -7,19 +7,22 @@ header {
     padding-top: 10px;
     background-color: white;
 }
-.section1 {
-  background-color: #e4dbcf;
-  padding: 0;
-  overflow: hidden;
-  margin-top: 0;
-  padding-bottom: 20px;
+.l {
+  width: 20%; /* 幅を300ピクセルに固定 */
+  height: auto; /* 高さは自動調整（縦横比を保つ） */
 }
-.section2 {
-  background-color: #e4dbcf;
-  padding: 0;
-  overflow: hidden;
-  margin-top: 0;
-  padding-top: 0px;
+.p {
+  width: 100%; /* 幅を300ピクセルに固定 */
+  height: auto; /* 高さは自動調整（縦横比を保つ） */
+}
+h1{
+  font-family: zen-maru-gothic, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 90%;
+padding: 20px 20px 20px 20px;
+text-align: center;
+  font-size: small;
 }
 .yoyakubutton{
   text-align: center;  
@@ -44,13 +47,19 @@ font-weight: 500;
 .予約:hover {  
   background-color: #0a2c0c; /* ホバー時の色変化 */
 }
-.l {
-  width: 20%; /* 幅を300ピクセルに固定 */
-  height: auto; /* 高さは自動調整（縦横比を保つ） */
+.section1 {
+  background-color: #e4dbcf;
+  padding-left: 20px;
+  overflow: hidden;
+  margin-top: 0;
+  padding-bottom: 20px;
 }
-.p {
-  width: 100%; /* 幅を300ピクセルに固定 */
-  height: auto; /* 高さは自動調整（縦横比を保つ） */
+.section2 {
+  background-color: #e4dbcf;
+  padding-left: 20px;
+  overflow: hidden;
+  margin-top: 0;
+  padding-top: 0px;
 }
 .t{
   width: 50%;
@@ -64,15 +73,6 @@ img.s {
    background-color: #e4dbcf;
    overflow: hidden;
    padding: 5px 0px 5px 0px;
-}
-h1{
-  font-family: zen-maru-gothic, sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 90%;
-padding: 20px 20px 20px 20px;
-text-align: center;
-  font-size: small;
 }
 h2{
   text-align: center;
