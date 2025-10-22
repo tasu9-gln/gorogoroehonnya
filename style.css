@@ -131,10 +131,10 @@ font-style: normal;
 font-weight: 500;
 }
 .insta:hover {  
-  background-color: #0a2c0c; /* ホバー時の色変化 */
+  background-color: #1a1107; /* ホバー時の色変化 */
 }
 .instaimg{
-  padding: 20px;
+  padding-top: 20px;
   width: 40px;
   text-align: center;
 }
