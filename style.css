@@ -68,8 +68,7 @@ img.s {
 }
 h2{
   text-align: center;
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding: 30px 20px 15px 20px;
   color: #412c12;
   font-family: zen-maru-gothic, sans-serif;
 font-style: normal;
@@ -81,11 +80,11 @@ h3{
   font-family: zen-maru-gothic, sans-serif;
 font-style: large;
 font-weight: 500;
-  text-align: left;
+  padding: 30px 20px 15px 20px;
 }
 .b{
   font-size: small;
-  padding-bottom: 50px;
+ padding: 15px 20px 30px 20px;
   color: #412c12;
   font-family: zen-maru-gothic, sans-serif;
 font-style: normal;
