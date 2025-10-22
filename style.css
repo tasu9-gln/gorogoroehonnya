@@ -86,8 +86,9 @@ h3{
   font-size: large;
   color: #412c12;
   font-family: zen-maru-gothic, sans-serif;
-font-style: normal;
+font-style: large;
 font-weight: 500;
+  text-align:left;
 }
 .b{
   font-size: small;
@@ -96,6 +97,7 @@ font-weight: 500;
   font-family: zen-maru-gothic, sans-serif;
 font-style: normal;
 font-weight: 300;
+  text-align:left;
 }
 .saigo{
  padding: 20px 20px 20px 20px;
