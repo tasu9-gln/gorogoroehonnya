@@ -51,14 +51,7 @@ font-weight: 500;
   background-color: #e4dbcf;
   overflow: hidden;
   margin-top: 0;
-  padding-bottom: 20px;
-}
-.section2 {
-  background-color: #e4dbcf;
-  padding-left: 20px;
-  overflow: hidden;
-  margin-top: 0;
-  padding-top: 0px;
+  padding: 20px 20px 20px 20px;
 }
 .t{
   width: 50%;
@@ -88,7 +81,7 @@ h3{
   font-family: zen-maru-gothic, sans-serif;
 font-style: large;
 font-weight: 500;
-  text-align:left;
+  text-align: left;
 }
 .b{
   font-size: small;
