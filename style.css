@@ -131,3 +131,11 @@ font-weight: 500;
   width: 40px;
   text-align: center;
 }
+/* 昨年のイベントへのリンク */
+.last-event a,
+.last-event a:visited,
+.last-event a:hover,
+.last-event a:active {
+  color: #ffffff;
+  font-size: 10px;
+}
